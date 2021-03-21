@@ -1,0 +1,22 @@
+.search{
+    width: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search_red{
+    padding-bottom: 5%;
+    padding-top:3%;
+}
+.st_hd{
+    width:50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info_nar {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+  }

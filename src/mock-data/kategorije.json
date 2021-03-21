@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "naziv":"Kategorija A"
+    },
+    {
+        "id":2,
+        "naziv":"Kategorija B"
+    },
+    {
+        "id":3,
+        "naziv":"Kategorija C"
+    },
+    {
+        "id":4,
+        "naziv":"Kategorija D"
+    },
+    {
+        "id":5,
+        "naziv":"Kategorija X"
+    }
+]

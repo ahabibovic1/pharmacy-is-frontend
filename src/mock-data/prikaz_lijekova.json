@@ -1,0 +1,130 @@
+[
+    {
+        "kategorija": "Kategorija A",
+        "naziv": "Paracetamol",
+    "cijena": 2,
+    "opis": "Primjenjuju za olakšanje glavobolje, tenzione glavobolje, migrene, bola u leđima, reumatskog bola i bola u mišićima, zubobolje i menstrualnog bola. Također se koriste i za olakšanje grlobolje, povišene tjelesne temperature i bolova uzrokovanih s prehladom i gripom, a preporučuju se i za olakšanje bola kod blažeg oblika artritisa.",
+    "sastav": ["Paracetamol", "Povidon K 30", "Natrij škrobni glikolat", "Stearinska kiselina"],
+    "nusPojave": ["Alergijske reakcije", "Kožni osip ili ljuštenje kože ili čirevi (ulkusi) u ustima", "Problemi s disanjem", "Modrice ili krvarenje", "Mučnina"],
+    "kontradikcije": ["Metoklopramid", "Domperidon", "Holestiramin", "Varfarin"]
+    },
+    {
+        
+        "kategorija": "Kategorija B",
+        "naziv": "Nalgesin",
+        "cijena": 5.5,
+        "opis": "Nalgesin S smiruje bolove i upalu te snižava povišenu tjelesnu temperaturu. Indikacije su: glavobolja i zubobolja, migrena, bolovi u mišićima, zglobovima i kralježnici (uganuća i iščašenja), bolovi kod vratnog spondilitisa, fibrozitisa, burzitisa i tendinitisa, bolna stanja u ginekologiji (bolovi i grčevi kod menstruacije, bolovi zbog stavljanja materničnog uloška, poslijeporođajni bolovi), postoperativni bolovi, bolovi u mišićima i zglobovima koji prate prehladu i gripu.",
+        "sastav": ["Naproksennatrij", "Povidon", "Celuloza mikrokristalična", "Talk", "Magnezijev stearat", "Hipromeloza", "Titanijev dioksid (E171)", "Polietilenglikol", "Plava boja (E123)" ],
+        "nusPojave": ["Probavne smetnje","Žgaravica", "Bolovi u trbuhu", "Osjećaj mučnine ili povraćanje", "Alergijska reakcija"],
+        "kontradikcije": ["Paracetamol", "Acetilsalicilna kiselina", "Ibuprofen", "Diklofenak ili drugi nesteroidni antireumatici"]
+
+    },
+    {
+        "kategorija": "Kategorija B",
+        "naziv": "Aspirin",
+        "cijena": 6,
+        "opis": "Za kratkotrajno simptomatsko ublažavanje blagih do umjerenih bolova uključujući glavobolju, zubobolju, grlobolju uslijed prehlade, menstrualne bolove, bolove u mišićima i zglobovima, bolove u leđima, blage artritične bolove. Kod prehlade ili gripe za simptomatsko ublažavanje bolova i sniženje vrućice.",
+        "sastav": ["Acetilsalicilatna kiselina" ],
+        "nusPojave": ["Tinitus","Dispepsija", "Bol u probavnom sustavu", "Bol u abdomenu", "Upala u probavnom sustavu", "Ulkus u probavnom sustavu"],
+        "kontradikcije": ["Metotreksat", "Nesteroidni protuupalni lijekovi", "Digoksin", "Antidijabetici", "Alkohol"]
+
+    },
+    {
+        "kategorija": "Kategorija C",
+        "naziv": "Melox Fort",
+        "cijena": 12,
+        "opis": "Melox i Melox Fort sadrže aktivnu supstancu meloksikam. Meloksikam pripada skupini lijekova koja se naziva nesteroidni antiinflamatorni lijekovi (NSAIL-i), a koji se primjenjuju za ublažavanje upale i bolova u zglobovima i mišićima. Melox i Melox Fort se primjenjuju kod odraslih pacijenata u: kratkotrajnom liječenju pogoršanja osteoartritisa; dugotrajnom liječenju reumatoidnog artritisa i ankiloznog spondilitisa (također poznatog kao Bechterew-ova bolest).",
+        "sastav": ["Meloksikam" ],
+        "nusPojave": ["Otečenost kože ili sluznice","Alergijska reakcija", "Kratkoća daha", "Bol u abdomenu", "Upala jetre", "Krvaranje u probavnom sustavu"],
+        "kontradikcije": ["lijekove koji sprječavaju zgrušavanje krvi;", 
+            "lijekove koje razbijaju krvne ugruške (trombolitici);", "lijekove za bolesti srca i bubrega;", "kortikosteroide (npr. koji se primjenjuju protiv upale ili alergijskih reakcija);", "ciklosporin koji se primjenjuje nakon transplatacije organa ili u teškim stanjima kože, kod reumatoidnog artiritisa ili nefrotičkog sindroma;", "bilo koji diuretik (“tablete za poticanje mokrenja”). Ljekar može pratiti Vašu funkciju bubrega ako uzimate diuretike;", "lijekove za visoki krvni pritisak (npr. beta-blokatori);", "litij koji se primjenjuje u poremećajima raspoloženja;", "selektivne inhibitore ponovne pohrane serotonina (SSRI) koji se primjenjuju u liječenju depresije;", "metotreksat koji se primjenjuje u liječenju tumora ili teških nekontrolisanih stanja kože i aktivnog reumatoidnog artritisa;", "holestiramin koji se primjenjuje u snižavanju vrijednosti holesterola"]
+
+    },
+    {
+        "kategorija": "Kategorija D",
+        "naziv": "Sumamed",
+        "cijena": 20,
+        "opis": "Sumamed je indiciran za liječenje slijedećih infekcija ako se zna ili je vjerojatno da su one izazvane s jednim ili više osjetljivih mikroorganizama: Infekcije gornjih dišnih puteva: faringitis, tonzilitis, sinusitis, otitis media. Infekcije donjih dišnih puteva: akutna egzacerbacija kroničnog bronhitisa, izvanbolnički stečena pneumonija. Infekcije kože i potkožnog tkiva: umjereni oblik acne vulgaris, erythema migrans (prvi stadij lajmske bolesti), erizipel, impetigo i piodermija. Spolno prenosive bolesti: nekomplicirani uretritis/cervicitis uzrokovan s Chlamydia trachomatis. Infekcije želuca i dvanaesnika uzrokovane s Helicobacter pylori",
+         "sastav": ["Azitromicin" ],
+        "nusPojave": ["Anoreksija", "Vrtoglavica", "Glavobolja","Parestezija", "Disgeuzija", "Oštećenje vida", "Povraćanje", "Umor"],
+        "kontradikcije": ["Antacidi", "Didanozin", "Digoksin", "Zidovudin", "Ergoatamin"]
+
+    },
+    {
+        "kategorija": "Kategorija A",
+        "naziv": "Enap H",
+        "cijena": 10,
+        "opis": "Lijekovi za snižavanje krvnog pritiska. Enalapril spada u skupinu inhibitora konvertaze angiotenzina, koji djeluju tako da rašire krvne žile zbog čega se smanji krvni pritisak i povećava dotok krvi i kisika u srčani mišić i druge organe. Hidrohlortiazid spada u skupinu lijekova koji povećavaju izlučivanje mokraće (diuretici). Ovaj lijek povećava izlučivanje mokraće i tako smanjuje krvni pritisak. Kombinacija enalaprila i hidrohlortiazida snažnije snižava krvni pritisak nego pojedini sastojci.",
+         "sastav": ["Enalapril", "Hidrohlortiazid", "Laktoza monohidrat", "Kinolin žuto bojilo","Kukuruzni škrob", "Preželatinirani škrob", "Talk", "Natrij hidrogenkarbonat", "Magnezij stearat"],
+        "nusPojave": ["Zamagljen vid","Omaglica","Kašalj","Mučnina","Slabost", "Glavobolja"],
+        "kontradikcije": ["Drugi lijekovi za liječenje visokog krvnog pritiska", "Spironolakton", "Amjodaron", "Analgetici", "Antidepresivi"]
+
+    },
+    {
+        "kategorija": "Kategorija B",
+        "naziv": "Aspirin protect",
+        "cijena": 10,
+        "opis": "ASPIRIN protect inhibira slepljivanje i nagomilavanje krvnih pločica (trombocita) i na taj način sprečava nastajanje krvnih ugrušaka (tromba) – inhibicija agregacije trombocita.",
+         "sastav": ["Acetilsalicilna kiselina", "Skrob", "Celuloza", ",Metakrilna kiselina"],
+        "nusPojave": ["Poremećaji želuca i creva (krvarenja)", "Oticanje kože i sluzokože", "Svrab", "Proliv", "Mučnina", "Angioedem"],
+        "kontradikcije": ["Antikoagulanasi", "Trombolitici", "Acetilsalicilna kiselina", "Sistemski glukokortikosteroidi, osim hidrokortizona", "Nesteroidni antiinflamatorni lekovi sa salicilatima", "Antidijabetici"]
+
+    },
+    {
+        "kategorija": "Kategorija C",
+        "naziv": "Apaurin",
+        "cijena": 10,
+        "opis": "Apaurin je benzodiazepinski preparat koji djeluje anksiolitički (smanjuje psihički nemir i tjeskobu), hipnosedativno (smiruje, uspavljuje), mišićno-relaksirajuće (smanjuje napetost mišića) i antikonvulzivno (sprečava epileptičke napadaje) preko vezanja na centralne benzodiazepinske receptore",
+         "sastav": ["Acetilsalicilna kiselina", "Skrob", "Celuloza", ",Metakrilna kiselina"],
+        "nusPojave": ["Umor", "Pospanost", "Poremećaji u koordinaciji pokreta (ataksija)", "Smušenost", "Depresija", "Poremećaji govora", "Nerazgovijetan govor", "Usporenost"],
+        "kontradikcije": ["Sedativi", "Antidepresivi", "Antipsihotici", "Barbiturati", "Opiodi", "Anestetici"]
+
+    },
+    {
+        "kategorija": "Kategorija D",
+        "naziv": "Melatonin",
+        "cijena": 11,
+        "opis": "Melatonin doprinosi skraćenju vremena potrebnog za padanje u san i doprinosi ublažavanju subjektivnih osjećaja povezanih s jet lag-om.",
+         "sastav": ["Melatonin", "Celuloza", "Magnezijev stearat", "Tvar protiv zgrudnjavanja", "Silicijev dioksid"],
+        "nusPojave": ["Razdražljivost","Nervoza", "Nemir","Insomnija","Neuobičajeni snovi","Noćne more","Anksioznost"],
+        "kontradikcije": ["Alkohol"]
+
+    },
+    {
+        "kategorija": "Kategorija X",
+        "naziv": "Cotellic",
+        "cijena": 150,
+        "opis": "Za liječenje bolesnika s metastatskim ili neoperabilnim melanomom stadija IIIc u kojih je dokazana BRAF V600 mutacija. ECOG 0-2. Odobrava se primjena dva ciklusa liječenja, nakon čega je obvezna klinička i dijagnostička obrada u cilju ocjene stupnja tumorskog odgovora i podnošljivosti liječenja.",
+        "sastav": ["Nema podataka"],
+        "nusPojave": ["Anemija", "Zamagljen vid", "Krvarenje", "Proljev", "Mučnina", "Povraćanje"],
+        "kontradikcije": ["Nema podataka"]
+    },
+    {
+        "kategorija": "Kategorija X",
+        "naziv": "Kalijev citrat",
+        "cijena": 25.20,
+        "opis": "Kalijev citrat JGL prašak za oralnu otopinu koristi se u odraslih osoba i djece starije od 2 godine za korekciju i sprječavanje smanjenja razine kalija u krvi.",
+        "sastav": ["Kalijev citrat", "Saharin", "Laktoza"],
+        "nusPojave": ["Poremećaji probavnog sustava"],
+        "kontradikcije": ["Spironolakton", "Triamteren","Amilorid", "Antikolinergici", "Digoksin"]
+    },
+    {
+        "kategorija": "Kategorija A",
+        "naziv": "Alendronat",
+        "cijena": 18.50,
+        "opis": "Alendronat je indiciran za liječenje osteoporoze u odraslih žena u postmenopauzi. Alendronat smanjuje rizik prijeloma kralješka i kuka.",
+        "sastav": ["Alendronatna kiselina", "Celuloza", "Laktoza"],
+        "nusPojave": ["Poremećaji probavnog sustava","Bolovi u abdomenu", "Mučnina","Dijareja","Bol u mišićima","Glavobolja","Gastritis"],
+        "kontradikcije": ["Nesteroidni protuupalni lijekovi"]
+    },
+    {
+        "kategorija": "Kategorija B",
+        "naziv": "Atorvastatin",
+        "cijena": 8.20,
+        "opis": "Atorvastatin pripada grupi lekova koji se nazivaju statini i koji normalizuju količine lipida (masnoća) u krvi.",
+         "sastav": ["Atorvastatin", "Kalcijum-karbonat", "Celuloza", "Laktoza", "Monohidrat"],
+        "nusPojave": ["Alergijske reakcije","Oticanje kože", "Groznica","Slabost","Bol u mišićima","Otežano disanje","Visoka temperatura"],
+        "kontradikcije": ["Ciklosporin", "Eritromicin", "Fibrati", "Amlodipin", "Ritonavir"]
+
+    }
+]

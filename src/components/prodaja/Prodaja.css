@@ -1,0 +1,32 @@
+.div-prodaja {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+  flex-wrap: wrap;
+}
+
+.racun {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.pola {
+  width: 50%;
+}
+
+.div-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 30px 10px 10px 10px;
+}
+
+.artikli {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}

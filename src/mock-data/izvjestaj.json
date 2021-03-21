@@ -1,0 +1,106 @@
+[{
+  "sifra": "1",
+  "naziv": "Paracetamol",
+  "kolicina": 2,
+  "cijena": "5.5",
+  "period": "ostalo",
+  "placanje": "gotovinsko"
+},
+{
+    "sifra": "2",
+    "naziv": "Nalgesin",
+    "kolicina": 100,
+    "cijena": "5.5",
+    "period": "mjesec",
+    "placanje": "gotovinsko"
+  },
+  {
+    "sifra": "3",
+    "naziv": "Aspirin",
+    "kolicina": 100,
+    "cijena": "6",
+    "period": "mjesec",
+    "placanje": "gotovinsko"
+  },
+  {
+    "sifra": "4",
+    "naziv": "Melox Fort",
+    "kolicina": 30,
+    "cijena": "12",
+    "period": "ostalo",
+    "placanje": "karticno"
+  },
+  {
+      "sifra": "5",
+      "naziv": "Sumamed",
+      "kolicina": 150,
+      "cijena": "20",
+      "period": "ostalo",
+      "placanje": "karticno"
+    },
+    {
+      "sifra": "6",
+      "naziv": "Enap H",
+      "kolicina": 1000,
+      "cijena": "10",
+      "period": "mjesec",
+      "placanje": "gotovinsko"
+    }
+,
+{
+    "sifra": "7",
+    "naziv": "Aspirin protect",
+    "kolicina": 150,
+    "cijena": "10",
+    "period": "mjesec",
+    "placanje": "esencijalni"
+  },
+  {
+    "sifra": "8",
+    "naziv": "Apaurin",
+    "kolicina": 10,
+    "cijena": "10",
+    "period": "ostalo",
+    "placanje": "esencijalni"
+  },
+  {
+    "sifra": "9",
+    "naziv": "Melatonin",
+    "kolicina": 50,
+    "cijena": "11",
+    "period": "ostalo",
+    "placanje": "gotovinsko"
+  },
+  {
+    "sifra": "10",
+    "naziv": "Atorvastatin",
+    "kolicina": 10,
+    "cijena": "8.20",
+    "period": "ostalo",
+    "placanje": "esencijalni"
+  },
+  {
+    "sifra": "11",
+    "naziv": "Alendronat",
+    "kolicina": 30,
+    "cijena": "18.50",
+    "period": "mjesec",
+    "placanje": "karticno"
+  },
+  {
+    "sifra": "12",
+    "naziv": "Kalijev citrat",
+    "kolicina": 30,
+    "cijena": "25.20",
+    "period": "mjesec",
+    "placanje": "karticno"
+  },
+  {
+    "sifra": "13",
+    "naziv": "Cotellic",
+    "kolicina": 20,
+    "cijena": "150",
+    "period": "mjesec",
+    "placanje": "gotovinsko"
+  }
+]
